@@ -1,0 +1,22 @@
+.main-container {
+    height: 2000px;
+    box-sizing: border-box;
+    padding: 0 5%;
+    flex-direction: column;
+    font-family: "Roboto Condensed", sans-serif;
+    /* font-style: oblique; */
+    font-weight: 400;
+}
+
+.align-text-left {
+    text-align: left;
+}
+
+.main-image {
+    width: 500px !important;
+    height: 300px !important;
+}
+
+.font-600 {
+    font-weight: 600;
+}

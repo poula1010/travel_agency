@@ -1,0 +1,38 @@
+.header-container {
+    height: 130px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    background-color: white;
+    box-shadow: 0px 1px 4px #c1c1c1;
+    box-sizing: border-box;
+    padding: 10px 70px;
+    font-family: "Roboto Condensed", sans-serif;
+    ;
+}
+
+.search-input {
+    width: 250px;
+}
+
+.logo {
+    height: 45px;
+}
+
+.currency-select-container {
+    width: 100px;
+}
+
+.header-container hr {
+    margin: 0.5rem 0;
+}
+
+.font-small {
+    font-size: small !important;
+}
+
+.header-option {
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 400;
+}
